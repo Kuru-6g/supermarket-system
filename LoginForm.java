@@ -301,7 +301,7 @@ public class LoginForm extends javax.swing.JFrame {
             
             
             Billing bi = new Billing();
-            bi.setVisible(rootPaneCheckingEnabled);
+            bi.setVisible(true);
         }
     }//GEN-LAST:event_jButton4ActionPerformed
 
