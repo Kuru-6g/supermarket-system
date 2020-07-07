@@ -1,12 +1,8 @@
 
 package supermarket;
-//import javax.swing.JOptionPane;
-//import java.awt.Toolkit;
+import javax.swing.JOptionPane;
 
-import java.awt.event.WindowEvent;
 
-//import java.awt.event.WindowEvent;
-//import supermarket.StockManagement;
         
         
 public class LoginForm extends javax.swing.JFrame {
